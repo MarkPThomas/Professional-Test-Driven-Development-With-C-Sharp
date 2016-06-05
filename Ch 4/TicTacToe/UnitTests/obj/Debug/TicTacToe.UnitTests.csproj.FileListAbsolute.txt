@@ -1,0 +1,17 @@
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe.UnitTests\bin\Debug\TicTacToe.UnitTests.dll
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe.UnitTests\bin\Debug\TicTacToe.UnitTests.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe.UnitTests\bin\Debug\TicTacToe.Services.dll
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe.UnitTests\bin\Debug\TicTacToe.Services.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe.UnitTests\obj\Debug\TicTacToe.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe.UnitTests\obj\Debug\TicTacToe.UnitTests.dll
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe.UnitTests\obj\Debug\TicTacToe.UnitTests.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe\UnitTests\bin\Debug\TicTacToe.UnitTests.dll
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe\UnitTests\bin\Debug\TicTacToe.UnitTests.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe\UnitTests\bin\Debug\TicTacToe.Services.dll
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe\UnitTests\bin\Debug\TicTacToe.Services.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe\UnitTests\obj\Debug\TicTacToe.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe\UnitTests\obj\Debug\TicTacToe.UnitTests.dll
+C:\Users\Mark\Documents\GitHub\CSharp\ProfessionalTDDwCSharp\Ch 4\TicTacToe\UnitTests\obj\Debug\TicTacToe.UnitTests.pdb
