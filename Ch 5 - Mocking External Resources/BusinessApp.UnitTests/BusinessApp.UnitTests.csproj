@@ -35,6 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Moq">
+      <HintPath>..\..\..\..\..\Projects\Coding\Testing\dotNet\Mocking-Isolation Frameworks\moq4-master\Samples\Lib\Moq.dll</HintPath>
+    </Reference>
     <Reference Include="Ninject">
       <HintPath>..\..\..\..\..\Projects\Coding\Testing\dotNet\Dependency Injection\Ninject\lib\Ninject.dll</HintPath>
     </Reference>
@@ -58,11 +61,12 @@
   </Choose>
   <ItemGroup>
     <Compile Include="BusinessServiceTests.cs" />
+    <Compile Include="PersonServiceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\3 - BusinessApplication\BusinessApplication.csproj">
-      <Project>{39da8579-845c-41d8-983a-5de3f933c646}</Project>
+      <Project>{1ce4c4ab-b9df-47e4-ba88-3b47a6faf9a7}</Project>
       <Name>BusinessApplication</Name>
     </ProjectReference>
   </ItemGroup>

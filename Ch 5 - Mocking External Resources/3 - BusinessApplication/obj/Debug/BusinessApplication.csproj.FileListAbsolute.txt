@@ -1,7 +1,7 @@
-C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 5 - Mocking External Resources\3 - BusinessApplication\bin\Debug\BusinessApplication.dll
-C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 5 - Mocking External Resources\3 - BusinessApplication\bin\Debug\BusinessApplication.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 5 - Mocking External Resources\3 - BusinessApplication\bin\Debug\ClassLibrary.dll.config
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 5 - Mocking External Resources\3 - BusinessApplication\bin\Debug\ClassLibrary.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 5 - Mocking External Resources\3 - BusinessApplication\bin\Debug\ClassLibrary.pdb
 C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 5 - Mocking External Resources\3 - BusinessApplication\bin\Debug\Ninject.dll
 C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 5 - Mocking External Resources\3 - BusinessApplication\bin\Debug\Ninject.xml
-C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 5 - Mocking External Resources\3 - BusinessApplication\obj\Debug\BusinessApplication.csprojResolveAssemblyReference.cache
-C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 5 - Mocking External Resources\3 - BusinessApplication\obj\Debug\BusinessApplication.dll
-C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 5 - Mocking External Resources\3 - BusinessApplication\obj\Debug\BusinessApplication.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 5 - Mocking External Resources\3 - BusinessApplication\obj\Debug\ClassLibrary.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 5 - Mocking External Resources\3 - BusinessApplication\obj\Debug\ClassLibrary.pdb

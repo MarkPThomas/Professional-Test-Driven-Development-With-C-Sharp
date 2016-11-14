@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Configuration;
 
 using Ninject.Activation;
 
@@ -17,7 +13,9 @@ namespace BusinessApplication
     {
         protected override IDataAccessComponent CreateInstance(IContext context)
         {
-            var databaseConnectionString = ConfigurationManager.ConnectionStrings["MyConnectionString"].ConnectionString;
+            // For some reason below is only returning null. App.config is not being read correctly.
+            //var databaseConnectionString = ConfigurationManager.ConnectionStrings["MyConnectionString"].ConnectionString;
+            var databaseConnectionString = "test"; 
             return new DataAccessComponent(databaseConnectionString);
         }
     }

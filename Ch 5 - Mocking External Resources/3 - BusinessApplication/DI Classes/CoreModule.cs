@@ -15,6 +15,9 @@ namespace BusinessApplication
     {
         public override void Load()
         {
+            // Optionally binding the concrete class to a class:
+            Bind<BusinessService>().ToSelf();
+
             Bind<ILoggingDataSink>().To<LoggingDataSink>();
 
             // Note that LoggingComponent takes ILoggingDataSink as an initialization parameter.
@@ -24,6 +27,10 @@ namespace BusinessApplication
             // Use a Provider class to handle logic of parameters that cannot be tied to interfaces, such as strings.
             Bind<IDataAccessComponent>().ToProvider(new DataAccessComponentProvider());
             Bind<IWebServiceProxy>().ToProvider(new WebServiceProxyComponentProvider());
+
+            // Adding the Person App Demo classes...
+            Bind<IPersonRepository>().To<PersonRepository>();
+            Bind<IPersonService>().To<PersonService>();
         }
     }
 }
