@@ -1,0 +1,3 @@
+Third party libraries are copied here from some other source. This guarantees that the project pulled down elsewhere form source control will work and automatically be using the complete and correct assembly versions of all third party frameworks.
+
+VS uses relative paths for references, so this ensures the libraries are always found by VS.
