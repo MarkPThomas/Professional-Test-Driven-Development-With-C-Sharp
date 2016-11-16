@@ -1,0 +1,1 @@
+If the project isn't using a document collaboration system (but it should be), this holds the documentation to keep it close to the source code and benefit from source control.

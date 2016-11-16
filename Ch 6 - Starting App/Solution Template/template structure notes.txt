@@ -1,0 +1,1 @@
+docs & db generally shouldn't be created unless absolutely necessary. Resist creating these or any more folders, because a proliferation of folders is a sign of bad application development habits.
