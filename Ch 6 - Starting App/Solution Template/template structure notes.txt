@@ -1,1 +1,14 @@
 docs & db generally shouldn't be created unless absolutely necessary. Resist creating these or any more folders, because a proliferation of folders is a sign of bad application development habits.
+
+In the src folder, create a blank solution, then create projects within this folder, starting with:
+[SolutionName].Core = Main backend project, such as a class library.
+[SolutionName].UnitTests
+[SolutionName].IntegrationTests
+
+For each additional project, create corresponding folders within each of the testing projects.
+
+In the demo solution are the following: 
+Core = Class Library
+ExternalServices = ASP.Net MVC Framework
+WebClient = WCF Framework
+WinClient = WPF Framework
