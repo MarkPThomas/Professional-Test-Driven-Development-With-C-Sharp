@@ -1,0 +1,7 @@
+Create blank solution, then create projects within this folder. For each project, create corresponding folders within each of the testing projects.
+
+In this solution are the following: 
+Core = Class Library
+ExternalServices = ASP.Net MVC Framework
+WebClient = WCF Framework
+WinClient = WPF Framework
