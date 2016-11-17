@@ -1,0 +1,5 @@
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 7 - 1st User Story\OSIM\src\OSIM.Core\bin\Debug\OSIM.Core.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 7 - 1st User Story\OSIM\src\OSIM.Core\bin\Debug\OSIM.Core.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 7 - 1st User Story\OSIM\src\OSIM.Core\obj\Debug\OSIM.Core.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 7 - 1st User Story\OSIM\src\OSIM.Core\obj\Debug\OSIM.Core.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 7 - 1st User Story\OSIM\src\OSIM.Core\obj\Debug\OSIM.Core.pdb
