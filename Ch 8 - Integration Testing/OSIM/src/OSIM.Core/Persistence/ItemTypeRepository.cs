@@ -15,6 +15,7 @@ namespace OSIM.Core.Persistence
     public interface IItemTypeRepository
     {
         int Save(ItemType testItemType);
+        ItemType GetById(int id);
     }
 
     public class ItemTypeRepository : IItemTypeRepository
@@ -35,6 +36,14 @@ namespace OSIM.Core.Persistence
                 session.Flush();
             }
             return id;
+        }
+
+        public ItemType GetById(int id)
+        {
+            using (var session = _sessionFactory.OpenSession())
+            {
+                return session.Get<ItemType>(id);
+            }
         }
     }
 }
