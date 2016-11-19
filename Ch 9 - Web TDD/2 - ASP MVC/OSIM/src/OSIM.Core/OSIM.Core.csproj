@@ -50,15 +50,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DomainServices\CoreServicesModule.cs" />
+    <Compile Include="DomainServices\ItemTypeService.cs" />
     <Compile Include="Entities\ItemType.cs" />
     <Compile Include="Persistence\ItemTypeRepository.cs" />
     <Compile Include="Persistence\Mappings\ItemTypeMap.cs" />
     <Compile Include="Persistence\PersistenceModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="DomainServices\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>

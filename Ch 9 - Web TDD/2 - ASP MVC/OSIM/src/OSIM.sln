@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIM.WinClient", "OSIM.WinC
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "OSIM.Dev", "OSIM.Dev\OSIM.Dev.sqlproj", "{27D8DF09-F2A9-4CCA-A845-10B02FC8EAFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIM.WebClient", "OSIM.WebClient\OSIM.WebClient.csproj", "{5FA3098B-336B-46F2-A7ED-A87C765D3C7B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIM.WebClient", "OSIM.WebClient\OSIM.WebClient.csproj", "{089AC95C-5CB4-4894-A807-CDC310D2B891}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,10 +49,10 @@ Global
 		{27D8DF09-F2A9-4CCA-A845-10B02FC8EAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27D8DF09-F2A9-4CCA-A845-10B02FC8EAFC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{27D8DF09-F2A9-4CCA-A845-10B02FC8EAFC}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{5FA3098B-336B-46F2-A7ED-A87C765D3C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5FA3098B-336B-46F2-A7ED-A87C765D3C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5FA3098B-336B-46F2-A7ED-A87C765D3C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5FA3098B-336B-46F2-A7ED-A87C765D3C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{089AC95C-5CB4-4894-A807-CDC310D2B891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089AC95C-5CB4-4894-A807-CDC310D2B891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089AC95C-5CB4-4894-A807-CDC310D2B891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089AC95C-5CB4-4894-A807-CDC310D2B891}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
