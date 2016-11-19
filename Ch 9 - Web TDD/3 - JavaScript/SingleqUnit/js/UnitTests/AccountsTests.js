@@ -5,6 +5,7 @@
 //  Steps for Unit Tests:
 //  1. Use HTML test harness file (place examplefile within 'UnitTests' folder), refresh in browser.
 //  2. Have reference below, and in "Test Explorer" window, choose to "Run All" each time the tests are to be updated.
+//      You could toggle "Run Tests After Build" in "Test Explorer", but this seems to not be working in VS.
 
 /// <reference path="../Account.js" />
 
