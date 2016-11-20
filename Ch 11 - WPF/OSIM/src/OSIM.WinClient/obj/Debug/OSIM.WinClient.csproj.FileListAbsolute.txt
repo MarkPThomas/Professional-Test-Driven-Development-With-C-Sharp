@@ -30,3 +30,6 @@ C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-
 C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 11 - WPF\OSIM\src\OSIM.WinClient\obj\Debug\OSIM.WinClient.csproj.GenerateResource.Cache
 C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 11 - WPF\OSIM\src\OSIM.WinClient\obj\Debug\Views\SearchView.g.cs
 C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 11 - WPF\OSIM\src\OSIM.WinClient\obj\Debug\Views\SearchView.baml
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-TDD-C-Sharp\Ch 11 - WPF\OSIM\src\OSIM.WinClient\bin\Debug\OSIM.WinClient.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-TDD-C-Sharp\Ch 11 - WPF\OSIM\src\OSIM.WinClient\obj\Debug\OSIM.WinClient.exe
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-TDD-C-Sharp\Ch 11 - WPF\OSIM\src\OSIM.WinClient\obj\Debug\OSIM.WinClient.pdb
