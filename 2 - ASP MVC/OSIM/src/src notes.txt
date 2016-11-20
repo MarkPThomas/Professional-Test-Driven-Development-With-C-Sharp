@@ -1,1 +1,0 @@
-This is where the source code of the VS project goes. Anything accessible from the VS Solution explorer should go here.

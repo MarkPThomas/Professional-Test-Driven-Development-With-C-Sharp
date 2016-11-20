@@ -1,9 +1,0 @@
-C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 8 - Integration Testing\OSIM\src\OSIM.Dev\bin\Debug\OSIM.Dev.dacpac
-C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 8 - Integration Testing\OSIM\src\OSIM.Dev\bin\Debug\OSIM.Dev.dll
-C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 8 - Integration Testing\OSIM\src\OSIM.Dev\bin\Debug\OSIM.Dev.pdb
-C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 8 - Integration Testing\OSIM\src\OSIM.Dev\obj\Debug\Model.xml
-C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 8 - Integration Testing\OSIM\src\OSIM.Dev\obj\Debug\refactor.xml
-C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 8 - Integration Testing\OSIM\src\OSIM.Dev\obj\Debug\postdeploy.sql
-C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 8 - Integration Testing\OSIM\src\OSIM.Dev\obj\Debug\predeploy.sql
-C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 8 - Integration Testing\OSIM\src\OSIM.Dev\obj\Debug\OSIM.Dev.dll
-C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 8 - Integration Testing\OSIM\src\OSIM.Dev\obj\Debug\OSIM.Dev.pdb
