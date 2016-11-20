@@ -1,0 +1,106 @@
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\OSIM.WebClient.dll
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\OSIM.WebClient.pdb
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\obj\Debug\OSIM.WebClient.dll
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\obj\Debug\OSIM.WebClient.pdb
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\OSIM.Core.dll
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\Ninject.dll
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\NHibernate.dll
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\FluentNHibernate.dll
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\Iesi.Collections.dll
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\log4net.dll
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\OSIM.Core.pdb
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\Ninject.xml
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\NHibernate.pdb
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\NHibernate.xml
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\FluentNHibernate.pdb
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\FluentNHibernate.xml
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\Iesi.Collections.pdb
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\Iesi.Collections.xml
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\log4net.xml
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\Ninject.Web.Mvc.dll
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\NHibernate.ByteCode.Castle.dll
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\Castle.Core.dll
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\Castle.DynamicProxy2.dll
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\NHibernate.ByteCode.Castle.xml
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\Castle.Core.xml
+C:\Users\jeff\Desktop\OSIM_Chapter11\src\OSIM\OSIM.WebClient\bin\Castle.DynamicProxy2.xml
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\OSIM.WebClient.dll
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\OSIM.WebClient.pdb
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\FluentNHibernate.dll
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\NHibernate.ByteCode.Castle.dll
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\NHibernate.dll
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Ninject.dll
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Ninject.Web.Mvc.dll
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\OSIM.Core.dll
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Iesi.Collections.dll
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\log4net.dll
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Castle.Core.dll
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Castle.DynamicProxy2.dll
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\OSIM.Core.pdb
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\FluentNHibernate.pdb
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\FluentNHibernate.xml
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\NHibernate.pdb
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\NHibernate.xml
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\NHibernate.ByteCode.Castle.xml
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Ninject.xml
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Iesi.Collections.pdb
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Iesi.Collections.xml
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\log4net.xml
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Castle.Core.xml
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Castle.DynamicProxy2.xml
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\obj\Debug\OSIM.WebClient.dll
+C:\Users\jeff\Dropbox\TDD Book\Chapter 9\Code\OSIM\src\OSIM\OSIM.WebClient\obj\Debug\OSIM.WebClient.pdb
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\OSIM.WebClient.dll
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\OSIM.WebClient.pdb
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\FluentNHibernate.dll
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\NHibernate.ByteCode.Castle.dll
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\NHibernate.dll
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Ninject.dll
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Ninject.Web.Mvc.dll
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\OSIM.Core.dll
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Iesi.Collections.dll
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\log4net.dll
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Castle.Core.dll
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Castle.DynamicProxy2.dll
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\OSIM.Core.pdb
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\FluentNHibernate.pdb
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\FluentNHibernate.xml
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\NHibernate.pdb
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\NHibernate.xml
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\NHibernate.ByteCode.Castle.xml
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Ninject.xml
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Iesi.Collections.pdb
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Iesi.Collections.xml
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\log4net.xml
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Castle.Core.xml
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\bin\Castle.DynamicProxy2.xml
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\obj\Debug\OSIM.WebClient.dll
+C:\Users\jeff\Desktop\Code\OSIM\src\OSIM\OSIM.WebClient\obj\Debug\OSIM.WebClient.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\obj\Debug\OSIM.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\obj\Debug\OSIM.WebClient.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\obj\Debug\OSIM.WebClient.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\OSIM.WebClient.dll.config
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\OSIM.WebClient.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\OSIM.WebClient.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\OSIM.Core.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\System.Web.Mvc.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\Castle.Core.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\log4net.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\Castle.DynamicProxy2.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\OSIM.Core.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\FluentNHibernate.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\FluentNHibernate.xml
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\NHibernate.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\NHibernate.xml
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\NHibernate.ByteCode.Castle.xml
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\Ninject.xml
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\System.Web.Mvc.xml
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\Castle.Core.xml
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\log4net.xml
+C:\Users\Mark\Documents\GitHub\CSharp\Professional-Test-Driven-Development-With-C-Sharp\Ch 9 - Web TDD\2 - ASP MVC\OSIM\src\OSIM.WebClient\bin\Castle.DynamicProxy2.xml
